@@ -8,8 +8,3 @@
  
 # Video Preview
 - https://streamable.com/687ast
-
-# Support Me
-If you like my stuff, please consider donating to support me and the stuff I do.
-
-- [Paypal Link](https://www.paypal.com/donate/?business=WMLLH2XAG3FYA&no_recurring=0&item_name=Creating+easy+game+templates+for+beginners+to+jump+start+their+2D+game+ideas%2C+made+in+either+C%2B%2B+or+Javascript.&currency_code=USD)
