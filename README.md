@@ -5,6 +5,7 @@
 - H: disable debug text
 - WASD: move
 - Mouse: aim direction
+- Spacebar: Dash
   
 Live website: https://cmesias.github.io/2DTopDownGameTemplateJS/
 
