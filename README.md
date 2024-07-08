@@ -1,11 +1,11 @@
 # 2D Top Down Game Template Javascript (JS)
 
 # Controls
-- P: disable editor mode
-- H: disable debug text
-- WASD: move
-- Mouse: aim direction
-- Spacebar: Dash
+- **P**: disable editor mode
+- **H**: disable debug text
+- **WASD**: move
+- **Mouse**: aim direction
+- **Spacebar**: Dash
   
 Live website: https://cmesias.github.io/2DTopDownGameTemplateJS/
 
